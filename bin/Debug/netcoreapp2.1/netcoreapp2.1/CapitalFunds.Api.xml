@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CapitalFunds.Api</name>
+    </assembly>
+    <members>
+        <member name="M:CapitalFunds.Api.Controllers.HealthController.Health">
+            <summary>
+            Tests if connection is active
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
